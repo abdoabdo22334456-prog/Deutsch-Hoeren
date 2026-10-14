@@ -1,0 +1,12 @@
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.log
